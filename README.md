@@ -67,5 +67,5 @@ endmodule
 **RESULTS**
 ```
 Thus the SISO shift register using verilog is validated and logic
-diagram are verified.```
-
+diagram are verified.
+```
